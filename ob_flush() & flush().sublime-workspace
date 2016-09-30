@@ -1,0 +1,501 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"if",
+				"iframe"
+			],
+			[
+				"time",
+				"time_i"
+			],
+			[
+				"sec",
+				"seconds"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"user",
+				"userinfo"
+			],
+			[
+				"ac",
+				"action2"
+			],
+			[
+				"dat",
+				"database2"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"load",
+				"loadindex"
+			],
+			[
+				"add",
+				"addmodal"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"re",
+				"req	require …"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"btt",
+				"button"
+			],
+			[
+				"ms",
+				"msgs"
+			],
+			[
+				"tye",
+				"types"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"is_",
+				"is_json"
+			],
+			[
+				"verify",
+				"verify_t"
+			],
+			[
+				"ajx",
+				"ajaxnum"
+			],
+			[
+				"ajax",
+				"ajaxnum"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 469.0,
+		"last_filter": "view",
+		"selected_items":
+		[
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Color Picker"
+			],
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"install",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 817.0
+	},
+	"console":
+	{
+		"height": 390.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/WWW/test/ob_flush() & flush().php",
+		"/C/Users/Administrator/Desktop/发源地预约草图/index.html",
+		"/D/WWW/comet/index.html",
+		"/D/WWW/comet/prototype.js",
+		"/C/Users/Administrator/Desktop/style.css",
+		"/C/Users/Administrator/Desktop/answer.html",
+		"/D/WWW/test/test.html",
+		"/D/WWW/test/test2.php",
+		"/C/Users/Administrator/Desktop/Highcharts-4.1.9 (1)/Highcharts-4.1.9/exporting-server/php/php-batik/index.php",
+		"/C/Users/Administrator/Desktop/发源地预约草图(新增后台管理系统)/后台管理系统.html",
+		"/C/Users/Administrator/Desktop/layer-v2.0/layer/layer.js",
+		"/C/Users/Administrator/Desktop/layer-v2.0/layer/extend/layer.ext.js",
+		"/D/WWW/test/test.php",
+		"/D/WWW/thinkphp/Application/Admin/Controller/TestController.class.php",
+		"/C/Users/Administrator/Desktop/test2.html",
+		"/D/WWW/wangka/Application/Admin/View/Index/Business_management.html",
+		"/D/WWW/6226/Application/Home/View/Index/index.html",
+		"/D/WWW/wangka/Application/Admin/View/Index/Prepaid_records.html",
+		"/D/WWW/wangka/Application/Admin/View/Index/Authority_management.html",
+		"/D/WWW/wangka/Application/Admin/Controller/PublicController.class.php",
+		"/D/WWW/wangka/Public/Admin/js/hplus.js",
+		"/D/WWW/wangka/Public/Admin/js/highcharts.js",
+		"/C/Users/Administrator/AppData/Local/Temp/360zip$Temp/360$3/续签业务附加产品选择流程草图/index.html",
+		"/G/文件备份/2015年10月31日-刮刮卡更新/替换用文件/wap/Guajiang_index.html",
+		"/G/文件备份/2015年10月31日-刮刮卡更新/替换用文件/user/Guajiang_add.html",
+		"/G/文件备份/2015年10月31日-刮刮卡更新/替换用文件/user/GuajiangAction.class.php",
+		"/G/文件备份/2015年10月31日-刮刮卡更新/替换用文件/user/LotteryBaseAction.class.php",
+		"/D/WWW/wangka/Public/Admin/js/plugins/jqgrid/jquery.jqGrid.min.js",
+		"/C/Users/Administrator/Desktop/guajiang_index.html",
+		"/C/Users/Administrator/Desktop/guajiangaction备份.php",
+		"/D/WWW/6226/ThinkPHP/Common/functions.php",
+		"/D/WWW/6226/ThinkPHP/Library/Vendor/PHPMailer/class.phpmailer.php",
+		"/D/WWW/6226/ThinkPHP/Library/Vendor/PHPMailer/PHPMailerAutoload.php",
+		"/C/Users/Administrator/AppData/Local/Temp/360zip$Temp/360$1/wangka/Application/Home/View/Index/index.html",
+		"/C/Users/Administrator/AppData/Local/Temp/360zip$Temp/360$0/wangka/Application/Home/View/index.html",
+		"/D/WWW/6226/ThinkPHP/Conf/convention.php",
+		"/D/WWW/6226/Application/Admin/View/Index/header.html",
+		"/C/Users/Administrator/Desktop/Dmc.js",
+		"/G/文件备份/2015年10月22日/Business_property_housekeeping.html",
+		"/D/WWW/wangka/Application/Home/View/Index/index.html",
+		"/D/WWW/wangka/Application/Home/Controller/IndexController.class.php",
+		"/D/WWW/sockettest/test.php",
+		"/D/WWW/sockettest/test2.php",
+		"/D/WWW/sockettest/test4.php",
+		"/D/WWW/sockettest/test1.php",
+		"/D/WWW/wangka/Application/Admin/Controller/IndexController.class.php",
+		"/D/WWW/thinkphp/ThinkPHP/Mode/Api/Controller.class.php",
+		"/D/WWW/thinkphp/ThinkPHP/Mode/Api/App.class.php",
+		"/D/WWW/thinkphp/ThinkPHP/Mode/api.php",
+		"/C/Users/Administrator/Desktop/test.html",
+		"/D/WWW/thinkphp/Application/Admin/Controller/IndexController.class.php",
+		"/C/Users/Administrator/Desktop/线下-二维码扫码付款接口(不常用)-测试.html",
+		"/D/WWW/6226/Application/Admin/Controller/EditController.class.php",
+		"/D/phpStudy/php55n/test.php",
+		"/D/phpStudy/php55n/test1.php",
+		"/C/Users/Administrator/Desktop/1.php",
+		"/C/Users/Administrator/Desktop/zyupload javascript版实例代码/zyupload/zyupload.basic-1.0.0.js",
+		"/C/Users/Administrator/Desktop/zyupload/up.php",
+		"/C/Users/Administrator/Desktop/zyupload javascript版实例代码/demo.basic.html",
+		"/D/WWW/6226/Application/Admin/View/Edit/rollingpiclist.html",
+		"/C/Users/Administrator/Desktop/zyupload javascript版实例代码/zyupload/zyupload.basic-1.0.0.min.js",
+		"/D/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/AppData/Local/Temp/360zip$Temp/360$0/chat.php",
+		"/C/Users/Administrator/Desktop/loginMy/login.html",
+		"/C/Users/Administrator/Desktop/11111.html",
+		"/C/Users/Administrator/Desktop/verify.html",
+		"/C/Users/Administrator/Desktop/index.html",
+		"/C/Users/Administrator/Desktop/customer_information.html",
+		"/D/WWW/6226/ThinkPHP/Library/Behavior/ContentReplaceBehavior.class.php",
+		"/D/Sublime Text 3/Data/Packages/ConvertToUTF8/README.md",
+		"/C/Users/Administrator/Desktop/zyupload/demo.html",
+		"/C/Users/Administrator/Desktop/zyupload/demo.js",
+		"/D/WWW/6226/Public/zyupload/control/js/zyUpload.js",
+		"/D/WWW/6226/Application/Admin/Controller/AdminController.class.php",
+		"/D/WWW/6226/Public/zyupload/control/css/zyUpload.css",
+		"/D/WWW/6226/Application/Common/Conf/config.php",
+		"/D/WWW/6226/index.php",
+		"/D/Sublime Text 3/Data/Packages/DocBlockr/README.md",
+		"/D/Sublime Text 3/Data/Packages/DocBlockr/Base File.sublime-settings",
+		"/D/WWW/packet/PHPMailer/class.phpmailer.php",
+		"/D/WWW/6226/ThinkPHP/Library/Think/SendMail.class.php",
+		"/D/WWW/thinkphp/Application/Home/Controller/IndexController.class.php",
+		"/D/WWW/thinkphp/ThinkPHP/Common/functions.php",
+		"/D/WWW/6226/Application/Home/Controller/IndexController.class.php",
+		"/D/WWW/thinkphp/Application/Common/Conf/config.php",
+		"/D/WWW/thinkphp/Application/Home/Common/index.html",
+		"/D/WWW/thinkphp/Application/Home/Conf/index.html",
+		"/D/WWW/thinkphp/Application/Home/Conf/config.php",
+		"/D/WWW/thinkphp/Application/Home/Controller/index.html",
+		"/D/WWW/6226/ThinkPHP/Common/function.php",
+		"/D/WWW/thinkphp/ThinkPHP/Library/Vendor/PHPMailer/class.phpmailer.php",
+		"/D/WWW/6226/ThinkPHP/Library/Vendor/PHPMailer/README.md",
+		"/D/WWW/thinkphp/Application/Home/View/index/index.html",
+		"/D/WWW/thinkphp/Application/Home/index.html",
+		"/D/WWW/thinkphp/Application/Home/Controller/FuwuController.class .php",
+		"/D/WWW/thinkphp/Application/Common/index.html",
+		"/D/WWW/thinkphp/Application/Common/Common/index.html",
+		"/D/WWW/6226/ThinkPHP/Library/Think/Page.class.php",
+		"/D/WWW/6226/ThinkPHP/Library/Vendor/Smarty/Smarty.class.php",
+		"/D/WWW/6226/ThinkPHP/Library/Vendor/Smarty/SmartyBC.class.php",
+		"/C/Users/Administrator/Desktop/demo/up.php",
+		"/C/Users/Administrator/Desktop/demo/demo.html",
+		"/D/WWW/6226/Application/Admin/View/Edit/menuadd.html",
+		"/D/WWW/6226/Application/Admin/View/Edit/menuedit.html",
+		"/D/Sublime Text 3/Data/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/D/WWW/packet/PHPMailer/examples/index.html",
+		"/D/WWW/packet/PHPMailer/PHPMailerAutoload.php",
+		"/D/WWW/packet/PHPMailer/class.pop3.php",
+		"/D/WWW/packet/PHPMailer/class.smtp.php",
+		"/D/WWW/packet/PHPMailer/README.md",
+		"/D/WWW/6226/Application/Admin/View/Public/login.html",
+		"/C/Users/Administrator/Desktop/demo/demo.js",
+		"/C/Users/Administrator/Desktop/zyupload javascript版实例代码/demo.html",
+		"/C/Users/Administrator/AppData/Local/Temp/~fxDB2BAC43.tmp/BusinessAction.class.php",
+		"/C/Users/Administrator/AppData/Local/Temp/~fx61F4E08B.tmp/config.php",
+		"/C/Users/Administrator/Desktop/example.html",
+		"/C/Users/Administrator/Desktop/Highcharts-4.1.9 (1)/Highcharts-4.1.9/test.html",
+		"/C/Users/Administrator/AppData/Local/Temp/~fx75560DD6.tmp/register.html",
+		"/C/Users/Administrator/Desktop/Highcharts-4.1.9/test.html",
+		"/C/Users/Administrator/Desktop/Highcharts-4.1.9/exporting-server/php/php-batik/index.php",
+		"/C/Users/Administrator/Desktop/Highcharts-4.1.9/js/highcharts.js",
+		"/D/WWW/6226/Application/Home/Controller/PublicController.class.php",
+		"/D/WWW/6226/Application/Home/Controller/HomeController.class.php",
+		"/D/WWW/6226/ThinkPHP/Library/Think/GetIp.class.php",
+		"/D/WWW/6226/ThinkPHP/Library/Think/Hook.class.php",
+		"/D/WWW/6226/Application/Admin/Controller/PublicController.class.php",
+		"/D/WWW/6226/ThinkPHP/Library/Think/getip.class.php",
+		"/C/Users/Administrator/AppData/Local/Temp/~fxBD9C8213.tmp/IndexController.class.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id=\"sec\"",
+			"id=\"min\"",
+			"close",
+			"navigator",
+			"close",
+			"Event",
+			"domain",
+			"-->\n",
+			"success",
+			"content",
+			"ski",
+			"skin-f",
+			"',);\n",
+			"emptyrecords",
+			"viewrecords",
+			"免费获取验证码",
+			"attachment",
+			"log",
+			"Require",
+			"add()",
+			"AddError",
+			"Mobile",
+			"Custom",
+			"decode",
+			"process",
+			"dohandshake",
+			"destroy",
+			"birthday",
+			"send()",
+			"getauth",
+			"array('name','require','栏目名称重复！'，'1','unique'),",
+			".tableContent .content {",
+			"sendPostRequst",
+			"Http(",
+			"ConfirmReadingTo",
+			"addCC",
+			"$cc",
+			"cc",
+			"trigger_error",
+			"function Mail",
+			"smtp_hostname",
+			"mail_",
+			"getIsConnect()",
+			"popLogin",
+			"getIsConnect()",
+			"_SESSION",
+			"<option value=\"free\">免费券</option>",
+			"\",\n",
+			"auth_token",
+			"warpCreateTplParam",
+			"wrapSignQueryString",
+			"warpCreateTplParam",
+			"ALIPASS_CREATETPL_SERVICE",
+			"alipay.pass.tpl.add",
+			"config",
+			"getAppId",
+			"app_id",
+			"wrapSystemParam",
+			"warpCreateTplParam",
+			"alipassUtils",
+			"warpCreateTplParam",
+			"tplContent",
+			"appid",
+			"serial_number",
+			"tplContent",
+			"createTemplate",
+			"method",
+			"openssl_pkey_get_private",
+			"warpAlipassData",
+			"openssl_pkey_get_private"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"print_r",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ob_flush() & flush().sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

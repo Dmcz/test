@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<div id='a'><span id="b">123</span><span id="c">|</span></div>
+
+</body>
+<script type="text/javascript" src="jquery-3.1.0.min.js"></script>
+
+<script type="text/javascript">
+sh();
+ds();
+var str = 'qwertyuiopasdfghjklzxcvbnm';
+var i = 0; 	//计数器
+function ds(speed){
+	var o = $('#b').text();
+	var length = o.length;
+	if(length > 0){
+		if (!speed) {
+			var speed = 700/length;
+		}
+		$('#b').text(o.substr(0,length-1));
+		setTimeout("ds("+speed+")",speed);
+	}else{
+		setTimeout("st()",500);
+	}
+}
+function st(){
+	var num = Math.random()*26;
+	i = 0;
+	ad(num)
+}
+function ad(count){
+	if(count > 0){
+		if(i <= count){
+			var rdm = Math.random()*25;
+			$('#b').text($('#b').text()+str.substr(rdm,1));
+			i++;
+			setTimeout("ad("+count+")",200);
+		}else{
+			setTimeout("ds()",1000);
+		}
+	}else{
+		st();
+	}
+}
+
+function sh() {
+	$('#c').fadeToggle();
+	setTimeout("sh()",500);
+}
+
+</script>
+
+</html>

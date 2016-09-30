@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<form >
+		<input type="file" name="img" id="img">
+		<button type="button" id="btn"></button>
+	</form>
+</body>	
+<script type="text/javascript" src="../jquery-3.1.0.min.js"></script>	
+<script type="text/javascript">
+	$('#btn').click(function (){
+		var res = GetImg('img','upload.php');
+	})
+	function GetImg(img,url,handle){
+		var file = $('#'+img);
+		if(window.FormData){
+			file = file[0].files[0]
+			var formData = new FormData();
+	        formData.append('file', file);
+	        $.ajax({
+	        	url: url,
+	            type: 'POST',
+	            cache: false,
+	            data: formData,
+	            processData: false,
+	            contentType: false,
+	            success:function(res){
+	            	if(typeof(handle) == 'function'){
+	            		handle(res);
+	            	}else{
+	            		alert('上传成功');
+	            	}
+	            	
+	            },
+	            error:function(){
+	            	console.info('上传失败');
+	            }
+	        })
+		}else{
+			var iframe = $('#uploadimg');
+			if(iframe.length < 1){
+				iframe = $('<iframe></iframe>');
+				iframe.attr({id:'uploadimg',name:'uploadimg'});
+				iframe.css('display','none');
+				iframe.on('load',function(){
+					var res = $(document.getElementById('uploadimg').contentWindow.document.body).html();
+					file.unwrap('#PseudoImgUpload');
+					if(typeof(handle) == 'function'){
+	            		handle(res);
+	            	}else{
+	            		alert('上传成功');
+	            	}
+				})
+				$('body').append(iframe);
+			}
+			file.wrap('<form style="display: inline;" action = "'+url+'" target = "uploadimg" method = "post" enctype = "multipart/form-data" id = "PseudoImgUpload"></form>');
+			$('#PseudoImgUpload').submit();
+		}		
+	}
+
+
+</script>
+</html>

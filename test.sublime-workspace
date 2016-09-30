@@ -1,0 +1,558 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"val",
+				"value"
+			],
+			[
+				"Md",
+				"MD5"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"loda",
+				"loadindex"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"key",
+				"keyword2"
+			],
+			[
+				"cz_",
+				"cz_productinfo"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"cz",
+				"cz_category"
+			],
+			[
+				"_",
+				"_initialize"
+			],
+			[
+				"banfan",
+				"banfangs"
+			],
+			[
+				"min",
+				"min_weight"
+			],
+			[
+				"por",
+				"product"
+			],
+			[
+				"list",
+				"listinfo"
+			],
+			[
+				"src",
+				"srcclick"
+			],
+			[
+				"produ",
+				"productinfo"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"ty",
+				"typename"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"chec",
+				"checkp"
+			],
+			[
+				"dis",
+				"discount"
+			],
+			[
+				"order",
+				"orderid"
+			],
+			[
+				"load",
+				"loadindex"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ho",
+				"hellow"
+			],
+			[
+				"ban",
+				"banfangtype"
+			],
+			[
+				"data",
+				"database"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 141.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"view",
+				"View: Toggle Tabs"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"packet",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			]
+		],
+		"width": 707.0
+	},
+	"console":
+	{
+		"height": 170.0,
+		"history":
+		[
+			"db1_connect",
+			"\"DB1:close_connectiong\"",
+			"exit;",
+			"exit",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/WWW/chazuan/Application/Home/View/Index/index.html",
+		"/D/WWW/chazuan/Application/Home/View/Index/footer.html",
+		"/D/WWW/chazuan/Application/Home/View/User/Hede.html",
+		"/D/WWW/chazuan/Application/Home/View/User/Register.html",
+		"/D/WWW/chazuan/Application/Home/Controller/IndexController.class.php",
+		"/D/WWW/chazuan/Application/Home/Controller/UserController.class.php",
+		"/D/WWW/chazuan/Application/Home/View/User/login.html",
+		"/D/WWW/chazuan3/Application/Home/View/User/login.html",
+		"/D/WWW/chazuan3/Application/Home/Controller/IndexController.class.php",
+		"/D/WWW/chazuan3/Application/Home/View/User/Hede.html",
+		"/D/WWW/chazuan/ThinkPHP/Conf/convention.php",
+		"/D/WWW/chazuan3/Application/Home/View/Index/hede.html",
+		"/D/WWW/chazuan3/Application/Home/View/Index/index.html",
+		"/D/WWW/chazuan/Application/Home/View/Index/hede.html",
+		"/D/WWW/chazuan/Application/Home/View/Index/luoshi.html",
+		"/D/WWW/chazuan/Application/Home/View/Index/zaixian.html",
+		"/D/WWW/chazuan/Application/Home/View/Index/xianhuo.html",
+		"/D/WWW/chazuan/Application/Home/View/Index/dapai.html",
+		"/D/WWW/chazuan/Application/Home/View/Index/article.html",
+		"/D/WWW/chazuan/Application/Home/View/Index/article_zaixianbanfang.html",
+		"/D/WWW/chazuan/Application/Home/View/Index/searchlist.html",
+		"/D/WWW/chazuan/Public/Home/js/areaconfig.js",
+		"/C/Users/Administrator/Desktop/danzi/article_zaixianbanfang.html",
+		"/D/WWW/chazuan1/Application/Home/View/Index/index.html",
+		"/D/WWW/chazuan1/Application/Home/Controller/IndexController.class.php",
+		"/D/WWW/chazuan1/Application/Home/View/Index/luoshi.html",
+		"/D/WWW/chazuan1/Application/Home/View/Index/zaixian.html",
+		"/D/WWW/chazuan1/Application/Home/View/User/Foot.html",
+		"/D/WWW/chazuan1/Application/Home/Controller/UserController.class.php",
+		"/D/WWW/chazuan1/Application/Home/View/Index/footer.html",
+		"/C/Users/Administrator/Desktop/查钻石网2/luoshi.html",
+		"/C/Users/Administrator/Desktop/查钻石网/luoshi.html",
+		"/D/WWW/chazuan1/Public/Home/js/jquery.range.js",
+		"/D/WWW/chazuan1/Application/Home/Controller/IndexController.class - 副本.php",
+		"/D/WWW/chazuan1/ThinkPHP/Conf/convention.php",
+		"/C/Users/Administrator/Desktop/danzi/Application/Home/View/User/login.html",
+		"/C/Users/Administrator/Desktop/查钻石网2/luoshi - 副本.html",
+		"/D/WWW/chazuan/Application/Home/Controller/HomeController.class.php",
+		"/C/Users/Administrator/Desktop/天气/whether.html",
+		"/C/Users/Administrator/Desktop/天气/js/jquery.percentageloader-0.1.min.js",
+		"/C/Users/Administrator/Desktop/新建文件夹 (2)/天气/whether2.html",
+		"/C/Users/Administrator/Desktop/新建文件夹 (2)/天气/js/circles.js",
+		"/G/test/test.js",
+		"/G/test/test2.js",
+		"/G/test/router.js",
+		"/G/test/requestHandler.js",
+		"/G/test/index.js",
+		"/G/test/server.js",
+		"/C/Users/Administrator/Desktop/test2.html",
+		"/D/WWW/danzi/ThinkPHP/Conf/convention.php",
+		"/D/WWW/danzi/Application/Home/Controller/IndexController.class.php",
+		"/D/WWW/danzi/Application/Home/View/index/index.html",
+		"/D/WWW/danzi/ThinkPHP/Library/Behavior/ContentReplaceBehavior.class.php",
+		"/C/Users/Administrator/Desktop/2015年12月20日单子/chazuan/ThinkPHP/Conf/convention.php",
+		"/C/Users/Administrator/Desktop/jsAPIDemo/getLocation.html",
+		"/D/WWW/test/getpage/test2.php",
+		"/C/Windows/System32/drivers/etc/hosts.ics",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Administrator/Desktop/kj.php",
+		"/C/Users/Administrator/Desktop/1.php",
+		"/C/Users/Administrator/Desktop/style.css",
+		"/C/Users/Administrator/Desktop/货车临时通行证审批/myApply.html",
+		"/C/Users/Administrator/Desktop/新建文件夹/select.html",
+		"/C/Users/Administrator/Desktop/test3.html",
+		"/C/Users/Administrator/Desktop/test.html",
+		"/C/Users/Administrator/Desktop/IndexController.class.php",
+		"/C/Users/Administrator/Desktop/swiper-3.2.7.min.css",
+		"/C/Users/Administrator/Desktop/Salon_designer - 副本.html",
+		"/D/WWW/ops2/Application/Admin/Controller/IndexController.class.php",
+		"/D/WWW/ops2/ThinkPHP/Conf/convention.php",
+		"/D/WWW/ops2/Application/Admin/Controller/PublicController.class.php",
+		"/D/WWW/ops2/Application/Admin/Controller/AdminController.class.php",
+		"/D/WWW/ops2/Application/Admin/Controller/FinanceController.class.php",
+		"/D/WWW/ops2/Application/Admin/Controller/index.html",
+		"/D/WWW/ops2/Application/Admin/Controller/IndexController.class.php.bak",
+		"/D/WWW/ops2/Application/Admin/Controller/ManageController.class.php",
+		"/c/WINDOWS/TEMP/results.txt",
+		"/G/sftptest/OrderTrace.html",
+		"/G/sftptest/message.html",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/G/sftptest/registration_information.html",
+		"/G/sftptest/index.html",
+		"/G/sftptest/iframe_index.html",
+		"/G/sftptest/test.js",
+		"/G/sftptest/js/aaa.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/Desktop/layer/laycode-v1.1/laycode/laycode.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/G/sftptest/images/icon-jinggao.png",
+		"/C/Users/Administrator/Desktop/treemenu/js/jquery-1.7.2.min.js",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_tag.sublime-settings",
+		"/G/sftptest/sftp-config.json",
+		"/G/sftptest/index",
+		"/G/sftptest/js/sftp-config.json",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SFTP/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/Desktop/test2.sql",
+		"/C/Users/Administrator/Desktop/QQ图片20151212100253.jpg"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 208.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"[$key]['logo'] = $logo[0];",
+			"logo",
+			"banfangs",
+			"logo",
+			"'),\n",
+			"search",
+			"searchclick",
+			"psot",
+			"scinput",
+			"layer",
+			"最近游览",
+			"article",
+			"chazuan",
+			"/chazuan/",
+			"/chazuan",
+			"/chazuan/",
+			"xhrecommend",
+			"chazuan1",
+			"清空搜索",
+			"清空条件",
+			"var ",
+			"$p",
+			"p",
+			"$p",
+			"p",
+			"';",
+			"<span class=\"ls_xz1\"></span>",
+			"search_shape_1",
+			"$listinfo[$k]['oprice']",
+			"$v['attrname']",
+			"searchweight",
+			"./",
+			"luoshi_tj",
+			"main_ls",
+			"dd",
+			"ls_xz",
+			">",
+			"div",
+			"</div>",
+			"dd",
+			"$attributes[$key]",
+			"                    $",
+			"$attributes[$key]",
+			"\">\n",
+			"\n					",
+			"					\n",
+			"src",
+			"            $",
+			"60",
+			"提交",
+			">\n",
+			"n",
+			"						\n",
+			"banfang",
+			"inquire-tab",
+			"M('set')",
+			"set",
+			"M('set')",
+			"set",
+			"  \n",
+			"\"",
+			"tp_haircut_complaint",
+			"12312",
+			"function",
+			"...\n",
+			"argument",
+			"check",
+			"Check",
+			"check",
+			" 	=",
+			"comment",
+			"$\n",
+			"comment",
+			"			\n",
+			"//\n",
+			"第一次进入需要获取用户授权",
+			" \n",
+			"fangkai",
+			"this",
+			"datainfo",
+			"totalFee",
+			"comment",
+			"token",
+			"xnr_my",
+			"catid",
+			"find();\n		//检查权限",
+			"find();\n		//",
+			"find();\n		",
+			"find();\n",
+			"();",
+			"		",
+			"		$",
+			"\n		",
+			"arry2",
+			"	$",
+			"totalFee",
+			"']){\n",
+			"mailprice",
+			"is_cart",
+			"				\n",
+			"openid"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"post",
+			"__ROOT__/",
+			"chazuan",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ord",
+				"OrderTrace.html"
+			],
+			[
+				"me",
+				"message.html"
+			],
+			[
+				"test",
+				"test.js"
+			],
+			[
+				"",
+				"js\\aaa.js"
+			],
+			[
+				"html",
+				"iframe_index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
